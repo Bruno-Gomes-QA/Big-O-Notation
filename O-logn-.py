@@ -1,6 +1,10 @@
 # O(log n): Develop a binary search algorithm that finds an element in a sorted list. This algorithm should halve the search space with each iteration.
 
 def binary_search(arr, target):
+
+    if not arr:
+        return 'Array is empty'
+        
     left, right = 0, len(arr) - 1
     
     while left <= right:
