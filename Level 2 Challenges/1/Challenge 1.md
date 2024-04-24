@@ -1,6 +1,6 @@
 ## Challenge:
 
-Optimize the product search function on an e-commerce platform to handle large product volumes and enhance user experience.
+Optimize the product search function on an super market platform to handle large product volumes and enhance user experience.
 
 ## Requirements:
 
