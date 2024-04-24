@@ -4,7 +4,7 @@ def binary_search(arr, target):
 
     if not arr:
         return 'Array is empty'
-        
+
     left, right = 0, len(arr) - 1
     
     while left <= right:
@@ -19,5 +19,5 @@ def binary_search(arr, target):
             
     return -1  
 
-arr = list(range(1,100))
+arr = list(range(1,101))
 print(binary_search(arr, 20))

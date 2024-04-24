@@ -6,4 +6,5 @@ def first_element(arr):
 
     return arr[0]
 
-print(first_element([10,5,7,9,1,2,6]))
+arr = list(range(1,101))
+print(first_element(arr))

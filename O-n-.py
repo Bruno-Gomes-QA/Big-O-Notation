@@ -10,5 +10,5 @@ def search_element(arr, target):
 
     return -1
 
-arr = list(range(1,100))
+arr = list(range(1,101))
 print(search_element(arr, 100))
