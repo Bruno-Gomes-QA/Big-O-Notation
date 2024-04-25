@@ -1,4 +1,4 @@
-## Desafio:
+# Desafio:
 
 Otimizar a função de busca de produtos em uma plataforma de supermercado para lidar com grandes volumes de produtos e melhorar a experiência do usuário.
 
@@ -12,17 +12,7 @@ Otimizar a função de busca de produtos em uma plataforma de supermercado para 
 - Implementar estratégias de cache.
 - Testar rigorosamente com grandes conjuntos de dados.
 
-## Challenge:
+# Evolução
 
-Optimize the product search function on an super market platform to handle large product volumes and enhance user experience.
-
-## Requirements:
-
-- Develop an efficient search algorithm.
-- Ensure fast response times for popular queries.
-- Consider scalability for a growing catalog.
-- Utilize efficient data structures.
-- Explore data preprocessing techniques.
-- Implement caching strategies.
-- Thoroughly test with large datasets.
+Até o momento apenas criei o banco de dados com a tabela products inserindo dados do arquivo sample.txt
 

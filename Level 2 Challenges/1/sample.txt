@@ -1,0 +1,200 @@
+Arroz - Grãos e Cereais - 2.50-5.00-0
+Feijão - Grãos e Cereais - 3.00-6.00-0
+Macarrão - Massas - 1.50-3.50-0
+Óleo de Soja - Condimentos e Óleos - 3.50-6.00-0
+Açúcar - Doces e Confeitaria - 2.00-4.00-0
+Café - Bebidas Quentes - 4.00-8.00-0
+Leite Integral - Laticínios - 2.50-4.50-0
+Queijo Prato - Laticínios - 5.00-10.00-0
+Carne Bovina Moída - Carnes - 8.00-15.00-1
+Frango Congelado - Carnes - 6.00-12.00-1
+Peixe Salmão - Pescados - 10.00-20.00-1
+Ovos - Ovos e Produtos Derivados - 4.00-6.00-0
+Pão Francês - Padaria - 2.00-4.00-0
+Manteiga - Laticínios - 3.50-7.00-0
+Tomate - FLV - 2.00-3.50-1
+Alface - FLV - 1.50-2.50-1
+Cenoura - FLV - 1.80-3.00-1
+Maçã - FLV - 3.50-5.00-1
+Banana - FLV - 2.00-4.00-1
+Laranja - FLV - 1.80-3.50-1
+Batata - FLV - 2.50-4.00-1
+Cebola - FLV - 2.00-3.50-1
+Abobrinha - FLV - 3.00-4.50-1
+Morango - FLV - 4.00-7.00-1
+Pepino - FLV - 2.00-3.50-1
+Melancia - FLV - 6.00-10.00-1
+Milho Verde - FLV - 2.50-4.00-1
+Uva - FLV - 5.00-8.00-1
+Pêssego - FLV - 3.50-6.00-1
+Abacate - FLV - 4.00-7.00-1
+Mamão - FLV - 3.50-6.00-1
+Couve - FLV - 2.00-3.50-1
+Manga - FLV - 3.00-5.00-1
+Berinjela - FLV - 2.50-4.00-1
+Limão - FLV - 2.00-3.50-1
+Kiwi - FLV - 4.00-6.50-1
+Aspargo - FLV - 5.00-8.00-1
+Brócolis - FLV - 3.50-6.00-1
+Pimentão - FLV - 2.50-4.50-1
+Mandioca - FLV - 2.00-3.50-1
+Mamão - FLV - 3.50-6.00-1
+Rúcula - FLV - 2.50-4.00-1
+Graviola - FLV - 5.00-8.00-1
+Maracujá - FLV - 3.00-5.00-1
+Pera - FLV - 3.50-6.00-1
+Goiaba - FLV - 2.50-4.50-1
+Abacaxi - FLV - 4.00-7.00-1
+Beterraba - FLV - 2.00-3.50-1
+Acelga - FLV - 1.80-3.00-1
+Aipo - FLV - 2.50-4.00-1
+Castanha do Pará - Frutos Secos - 8.00-15.00-0
+Amendoim - Frutos Secos - 3.50-7.00-0
+Pistache - Frutos Secos - 10.00-20.00-0
+Castanha de Caju - Frutos Secos - 7.00-12.00-0
+Amêndoa - Frutos Secos - 5.00-9.00-0
+Noz - Frutos Secos - 6.50-11.00-0
+Ameixa - Frutas Secas - 4.00-7.00-0
+Tâmaras - Frutas Secas - 3.50-6.00-0
+Uva Passa - Frutas Secas - 2.50-5.00-0
+Figo Seco - Frutas Secas - 3.00-6.00-0
+Banana Passa - Frutas Secas - 2.00-4.00-0
+Damasco Seco - Frutas Secas - 4.50-8.00-0
+Pêssego Seco - Frutas Secas - 5.00-9.00-0
+Kiwi Seco - Frutas Secas - 6.00-10.00-0
+Abóbora Seca - Frutas Secas - 3.50-7.00-0
+Manga Seca - Frutas Secas - 4.00-8.00-0
+Cereja Seca - Frutas Secas - 8.00-15.00-0
+Mamão Seco - Frutas Secas - 3.00-6.00-0
+Coco Ralado - Frutas Secas - 2.50-5.00-0
+Cenoura Baby - FLV - 3.50-5.00-1
+Mandioquinha - FLV - 2.80-4.50-1
+Palmito - FLV - 5.00-8.00-1
+Quiabo - FLV - 2.20-4.00-1
+Couve-flor - FLV - 3.00-5.00-1
+Salsa - FLV - 1.80-3.00-1
+Manjericão - FLV - 2.50-4.50-1
+Alecrim - FLV - 3.00-5.00-1
+Agrião - FLV - 2.00-3.50-1
+Espinafre - FLV - 2.50-4.00-1
+Abóbora - FLV - 2.00-3.50-1
+Mamão Formosa - FLV - 4.00-7.00-1
+Berinjela Japonesa - FLV - 3.00-5.00-1
+Batata Doce - FLV - 2.50-4.50-1
+Alho - FLV - 3.00-5.00-1
+Cogumelos - FLV - 4.00-8.00-1
+Pimenta - FLV - 2.50-4.50-1
+Cajuína - Bebidas - 2.00-4.00-0
+Água Mineral - Bebidas - 1.00-2.50-0
+Refrigerante - Bebidas - 2.50-5.00-0
+Suco de Laranja - Bebidas - 3.00-6.00-0
+Vinho - Bebidas - 10.00-30.00-0
+Cerveja - Bebidas - 2.00-5.00-0
+Energético - Bebidas - 4.00-8.00-0
+Suco de Uva - Bebidas - 4.00-8.00-0
+Chá - Bebidas - 3.00-6.00-0
+Leite de Coco - Condimentos e Óleos - 2.50-5.00-0
+Vinagre - Condimentos e Óleos - 2.00-4.00-0
+Ketchup - Condimentos e Óleos - 1.50-3.50-0
+Mostarda - Condimentos e Óleos - 1.50-3.50-0
+Molho de Soja - Condimentos e Óleos - 3.00-6.00-0
+Geléia - Doces e Confeitaria - 2.50-5.00-0
+Chocolate - Doces e Confeitaria - 2.00-4.00-0
+Bolacha - Doces e Confeitaria - 1.00-3.00-0
+Sorvete - Doces e Confeitaria - 3.00-6.00-0
+Pipoca - Doces e Confeitaria - 1.50-3.50-0
+Salgadinho - Doces e Confeitaria - 2.00-4.00-0
+Salgadinho de Milho - Doces e Confeitaria - 1.50-3.50-0
+Barrinha de Cereal - Doces e Confeitaria - 1.00-2.50-0
+Doce de Leite - Doces e Confeitaria - 3.00-6.00-0
+Geleia de Frutas - Doces e Confeitaria - 2.50-5.00-0
+Amendoim Doce - Doces e Confeitaria - 1.50-3.50-0
+Biscoito Recheado - Doces e Confeitaria - 2.00-4.00-0
+Bolacha de Água e Sal - Doces e Confeitaria - 1.00-2.50-0
+Marshmallow - Doces e Confeitaria - 2.50-5.00-0
+Caramelo - Doces e Confeitaria - 1.50-3.50-0
+Bombom - Doces e Confeitaria - 2.50-5.00-0
+Chocotone - Doces e Confeitaria - 5.00-10.00-0
+Panetone - Doces e Confeitaria - 5.00-10.00-0
+Torta - Doces e Confeitaria - 10.00-20.00-0
+Creme de Leite - Laticínios - 2.00-4.00-0
+Iogurte - Laticínios - 2.50-5.00-0
+Leite Condensado - Laticínios - 2.50-5.00-0
+Sorvete de Massa - Doces e Confeitaria - 3.00-6.00-0
+Margarina - Laticínios - 2.00-4.00-0
+Leite Semidesnatado - Laticínios - 2.50-4.50-0
+Requeijão - Laticínios - 3.00-6.00-0
+Iogurte Grego - Laticínios - 3.00-6.00-0
+Doce de Frutas - Doces e Confeitaria - 2.50-5.00-0
+Farinha de Trigo - Grãos e Cereais - 2.00-4.00-0
+Farinha de Milho - Grãos e Cereais - 2.00-4.00-0
+Fubá - Grãos e Cereais - 1.50-3.50-0
+Farinha de Mandioca - Grãos e Cereais - 2.00-4.00-0
+Fermento - Padaria - 1.50-3.50-0
+Azeite - Condimentos e Óleos - 5.00-10.00-0
+Vinho Tinto - Bebidas - 10.00-20.00-0
+Vinho Branco - Bebidas - 10.00-20.00-0
+Vinho Rosé - Bebidas - 10.00-20.00-0
+Vinho Espumante - Bebidas - 15.00-30.00-0
+Vinho Licoroso - Bebidas - 15.00-30.00-0
+Cerveja Artesanal - Bebidas - 4.00-8.00-0
+Cerveja Importada - Bebidas - 5.00-10.00-0
+Cerveja sem Álcool - Bebidas - 3.00-6.00-0
+Refrigerante Zero - Bebidas - 2.50-5.00-0
+Suco Detox - Bebidas - 4.00-8.00-0
+Suco de Limão - Bebidas - 3.00-6.00-0
+Suco de Maracujá - Bebidas - 3.00-6.00-0
+Suco de Abacaxi - Bebidas - 3.00-6.00-0
+Suco de Manga - Bebidas - 3.00-6.00-0
+Suco de Tangerina - Bebidas - 3.00-6.00-0
+Suco de Morango - Bebidas - 4.00-8.00-0
+Suco de Acerola - Bebidas - 4.00-8.00-0
+Suco de Uva Integral - Bebidas - 4.00-8.00-0
+Suco de Pêssego - Bebidas - 3.00-6.00-0
+Suco de Caju - Bebidas - 3.00-6.00-0
+Suco de Kiwi - Bebidas - 4.00-8.00-0
+Suco de Melancia - Bebidas - 5.00-10.00-0
+Suco de Melão - Bebidas - 4.00-8.00-0
+Suco de Mamão - Bebidas - 4.00-8.00-0
+Suco de Graviola - Bebidas - 5.00-10.00-0
+Suco de Goiaba - Bebidas - 3.00-6.00-0
+Suco de Açaí - Bebidas - 6.00-12.00-0
+Suco de Cupuaçu - Bebidas - 6.00-12.00-0
+Suco de Acerola com Morango - Bebidas - 4.00-8.00-0
+Suco de Maracujá com Manga - Bebidas - 4.00-8.00-0
+Suco de Abacaxi com Hortelã - Bebidas - 4.00-8.00-0
+Suco de Tangerina com Cenoura - Bebidas - 4.00-8.00-0
+Suco de Uva com Maçã - Bebidas - 4.00-8.00-0
+Suco de Pêssego com Laranja - Bebidas - 4.00-8.00-0
+Suco de Morango com Limão - Bebidas - 4.00-8.00-0
+Suco de Kiwi com Melancia - Bebidas - 5.00-10.00-0
+Suco de Melão com Limão - Bebidas - 4.00-8.00-0
+Suco de Mamão com Laranja - Bebidas - 4.00-8.00-0
+Suco de Graviola com Abacaxi - Bebidas - 5.00-10.00-0
+Suco de Goiaba com Maçã - Bebidas - 4.00-8.00-0
+Suco de Açaí com Morango - Bebidas - 6.00-12.00-0
+Suco de Cupuaçu com Laranja - Bebidas - 6.00-12.00-0
+Cerveja Artesanal IPA - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Lager - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Stout - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Pale Ale - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Porter - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Weizenbier - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Witbier - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Saison - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Pilsen - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Amber Ale - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Belgian Ale - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Bock - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Dunkel - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Hefeweizen - Bebidas - 5.00-10.00-0
+Cerveja Artesanal India Pale Ale - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Kölsch - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Lichtenhainer - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Märzen - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Munich Helles - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Rauchbier - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Schwarzbier - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Vienna Lager - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Zwickelbier - Bebidas - 5.00-10.00-0
+Cerveja Artesanal Gose - Bebidas - 5.00-10.00-0

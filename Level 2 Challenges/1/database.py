@@ -14,10 +14,11 @@ class Database:
         self.cur.execute('''CREATE TABLE IF NOT EXISTS products (
                         id INTEGER PRIMARY KEY,
                         name TEXT NOT NULL,
-                        description TEXT,
+                        department TEXT,
                         price REAL NOT NULL,
                         created TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-                        updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP)''')
+                        updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                        variable_weight INTEGER NOT NULL)''')
         self.conn.commit()
 
     def random_datetime(self):
@@ -29,17 +30,18 @@ class Database:
 
         return date
 
-    def generate_products(self, n):
-    # Generate (n) Random Products and insert database
+    def generate_products(self, products):
+    # Generate Products and insert database
 
-        for _ in range(n):
-            name = self.fake.word()
-            description = self.fake.sentence()
-            price = round(random.uniform(10, 1000), 2)
+        for p in products:
+            name = p[0]
+            department = p[1]
+            price = p[2]
             created = self.random_datetime()
             updated = created + datetime.timedelta(days=random.randint(1, 365))
+            variable_weight = p[3]
 
-            self.cur.execute('''INSERT INTO products (name, description, price, created, updated)
-                        VALUES (?, ?, ?, ?, ?)''', (name, description, price, created, updated))
+            self.cur.execute('''INSERT INTO products (name, department, price, created, updated, variable_weight)
+                        VALUES (?, ?, ?, ?, ?, ?)''', (name, department, price, created, updated, variable_weight))
 
         self.conn.commit()
