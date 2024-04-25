@@ -1,4 +1,6 @@
 # O(n log n): Create an efficient sorting algorithm, such as merge sort or quicksort, that sorts a list of elements in nearly linear time.
+# O(n log n): Crie um algoritmo de ordenação eficiente, como o merge sort ou o quicksort, que ordene uma lista de elementos em tempo quase linear.
+
 import numpy as np
 
 def ordenate(arr):
@@ -32,5 +34,5 @@ arr = np.arange(1, 51)
 
 np.random.shuffle(arr)
 
-print('Shuffle Array: 'arr)
-print('Ordenate Array: 'ordenate(arr))
+print('Shuffle Array: ', arr)
+print('Ordenate Array: ', ordenate(arr))

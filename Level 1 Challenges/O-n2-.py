@@ -1,3 +1,4 @@
+#O(n²): Desenvolva um algoritmo de ordenação ineficiente, como o bubble sort, que ordene uma lista de elementos em tempo quadrático.
 # O(n²): Develop an inefficient sorting algorithm, such as bubble sort, that sorts a list of elements in quadratic time.
 
 import numpy as np 

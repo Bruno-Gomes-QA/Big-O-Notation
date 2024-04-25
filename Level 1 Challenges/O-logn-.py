@@ -1,3 +1,4 @@
+# O(log n): Desenvolva um algoritmo de busca binária que encontre um elemento em uma lista ordenada. Este algoritmo deve reduzir pela metade o espaço de busca a cada iteração.
 # O(log n): Develop a binary search algorithm that finds an element in a sorted list. This algorithm should halve the search space with each iteration.
 
 def binary_search(arr, target):

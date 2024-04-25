@@ -1,3 +1,4 @@
+# O(n): Implemente um algoritmo que percorra todos os elementos de uma lista e retorne o índice do elemento procurado, se estiver presente.
 # O(n): Implement an algorithm that traverses all elements of a list and returns the index of the searched element, if present.
 
 def search_element(arr, target):
