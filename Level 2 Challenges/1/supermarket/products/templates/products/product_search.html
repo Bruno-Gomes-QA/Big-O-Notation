@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Busca de Produtos</title>
+</head>
+<body>
+    <h1>Buscar Produtos</h1>
+    <form method="GET">
+        {{ form }}
+        <button type="submit">Buscar</button>
+    </form>
+    <hr>
+    <h2>Resultados</h2>
+    {% if products %}
+        <ul>
+            {% for product in products %}
+                <li>{{ product.name }} - R$ {{ product.price }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Nenhum produto encontrado.</p>
+    {% endif %}
+</body>
+</html>
