@@ -9,8 +9,6 @@ spec = FlaskPydanticSpec('flask', title='SuperMarket')
 spec.register(server)
 db = Database('sqlite:///app.db')
 
-
-
 @server.get('/products')
 def get_product():
     return 'List Products'
@@ -25,4 +23,4 @@ def post_product():
     db.session.commit()
     return data
 
-server.run()
+server.run(host='0.0.0.0')
