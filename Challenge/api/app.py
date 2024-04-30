@@ -1,26 +1,12 @@
+# app.py
 from flask import Flask
-from flask_pydantic_spec import FlaskPydanticSpec, Response
-from flask import Flask, request, jsonify
-from db import Database
-import models
+from flask_pydantic_spec import FlaskPydanticSpec
 
-server = Flask(__name__)
+app = Flask(__name__)
 spec = FlaskPydanticSpec('flask', title='SuperMarket')
-spec.register(server)
-db = Database('sqlite:///app.db')
+spec.register(app)
+from products import products
+app.register_blueprint(products)
 
-@server.get('/products')
-def get_product():
-    return 'List Products'
-
-@server.post('/products')
-@spec.validate(body=models.ProductModel, resp=Response(HTTP_201=models.ProductModel))
-def post_product():
-    data = request.context.body.dict()
-    product = models.Product(**data)
-    print(product)
-    db.session.add(product)
-    db.session.commit()
-    return data
-
-server.run(host='0.0.0.0')
+if __name__ == '__main__':
+    app.run()
