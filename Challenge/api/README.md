@@ -20,7 +20,7 @@ git clone https://github.com/Bruno-Gomes-QA/Big-O-Notation.git
 cd Challenge/api
 ```
 
-3. Instale as dependências em um ambiente virutal do projeto usando Poetry (Permissão de Administrador Necessária):
+3. Instale as dependências em um ambiente virtual do projeto usando Poetry (Permissão de Administrador Necessária):
 
 ```python
 poetry shell
@@ -37,7 +37,7 @@ flask run
 2. O servidor será iniciado e estará disponível em `http://localhost:5000`.
 
 ## Documentação da API
-Acesse a documentação da API para obter informações sobre os endpoints disponíveis e como usá-los. A documentação da API pode ser acessada em `http://localhost:5000/apidoc/swagger`, onde você encontrará detalhes sobre os endpoints disponíveis e como usá-los.
+Acesse a documentação da API para obter informações sobre os endpoints disponíveis e como usá-los. A documentação da API pode ser acessada em `http://localhost:5000/apidoc/swagger`.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrar um problema ou tiver uma sugestão de melhoria, por favor, abra uma issue ou envie um pull request.
