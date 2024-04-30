@@ -20,7 +20,7 @@ git clone https://github.com/Bruno-Gomes-QA/Big-O-Notation.git
 cd Challenge/api
 ```
 
-3. Instale as dependências em um ambiente virutal do projeto usando Poetry (Permissão de Administrador Necessária):
+3. Instale as dependências em um ambiente virtual do projeto usando Poetry (Permissão de Administrador Necessária):
 
 ```python
 poetry shell
