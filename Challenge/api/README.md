@@ -37,7 +37,7 @@ flask run
 2. O servidor será iniciado e estará disponível em `http://localhost:5000`.
 
 ## Documentação da API
-Acesse a documentação da API para obter informações sobre os endpoints disponíveis e como usá-los. A documentação da API pode ser acessada em `http://localhost:5000/apidoc/swagger`, onde você encontrará detalhes sobre os endpoints disponíveis e como usá-los.
+Acesse a documentação da API para obter informações sobre os endpoints disponíveis e como usá-los. A documentação da API pode ser acessada em `http://localhost:5000/apidoc/swagger`.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrar um problema ou tiver uma sugestão de melhoria, por favor, abra uma issue ou envie um pull request.
