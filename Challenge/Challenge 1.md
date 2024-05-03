@@ -1,6 +1,6 @@
 # Desafio:
 
-Otimizar a função de busca de produtos em uma plataforma de supermercado para lidar com grandes volumes de produtos e melhorar a experiência do usuário.
+Otimizar a função de busca de produtos em uma plataforma de Reciclagem para lidar com grandes volumes de produtos e melhorar a experiência do usuário.
 
 ## Requisitos:
 
